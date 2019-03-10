@@ -1,0 +1,32 @@
+{
+  "profiles": {
+    "Lapito's Galacticraft": {
+      "name": "Lapito's Galacticraft",
+      "gameDir": "/Users/philip/Documents/Curse/Minecraft/Instances/Lapito's Galacticraft/",
+      "lastVersionId": "forge-14.23.4.2705",
+      "javaArgs": "-Xmx3072m -Xms256m -XX:PermSize=256m -Dfml.ignorePatchDiscrepancies=true -Dfml.ignoreInvalidMinecraftCertificates=true -Duser.language=en -Duser.country=US",
+      "resolution": {
+        "width": "1024",
+        "height": "768"
+      },
+      "launcherVisibilityOnGameClose": "keep the launcher open"
+    }
+  },
+  "selectedProfile": "Lapito's Galacticraft",
+  "clientToken": "6dd7efe7-5df5-4654-917f-b065eb4bfa04",
+  "authenticationDatabase": {
+    "f4ac4443bea643e2aeee291ed6a07e83": {
+      "username": "jessieleighw@gmail.com",
+      "accessToken": "91631e9baa6443478ee6330f32146e59",
+      "userid": "65179177d3be12c75458cc5de47c7cc0",
+      "uuid": "f4ac4443-bea6-43e2-aeee-291ed6a07e83",
+      "displayName": "jessieleighw"
+    }
+  },
+  "selectedUser": "f4ac4443bea643e2aeee291ed6a07e83",
+  "launcherVersion": {
+    "name": "1.6.91",
+    "format": 21,
+    "profilesFormat": 1
+  }
+}

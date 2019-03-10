@@ -1,0 +1,64 @@
+[16:42:12][FINE/CustomNPCs][noppes.npcs.controllers.ScriptController:66] Sun Nov 11 16:42:12 EST 2018
+[16:42:12][FINE/CustomNPCs][noppes.npcs.CustomNpcs:247] Script Engines Available:
+[17:00:07][FINE/CustomNPCs][noppes.npcs.controllers.LinkedNpcController:28] Loading Linked Npcs
+[17:00:07][FINE/CustomNPCs][noppes.npcs.controllers.LinkedNpcController:28] Done loading Linked Npcs
+[17:00:29][FINE/CustomNPCs][noppes.npcs.CustomNpcs:311] Loading Dialogs
+[17:00:29][FINE/CustomNPCs][noppes.npcs.CustomNpcs:311] Done loading Dialogs
+[17:01:30][SEVERE/CustomNPCs][java.lang.Thread:748] java.net.UnknownHostException: www.google-analytics.com
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:184)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:589)
+	at sun.net.NetworkClient.doConnect(NetworkClient.java:175)
+	at sun.net.www.http.HttpClient.openServer(HttpClient.java:463)
+	at sun.net.www.http.HttpClient.openServer(HttpClient.java:558)
+	at sun.net.www.http.HttpClient.<init>(HttpClient.java:242)
+	at sun.net.www.http.HttpClient.New(HttpClient.java:339)
+	at sun.net.www.http.HttpClient.New(HttpClient.java:357)
+	at sun.net.www.protocol.http.HttpURLConnection.getNewHttpClient(HttpURLConnection.java:1220)
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect0(HttpURLConnection.java:1156)
+	at sun.net.www.protocol.http.HttpURLConnection$6.run(HttpURLConnection.java:1040)
+	at sun.net.www.protocol.http.HttpURLConnection$6.run(HttpURLConnection.java:1038)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.AccessController.doPrivilegedWithCombiner(AccessController.java:782)
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect(HttpURLConnection.java:1037)
+	at sun.net.www.protocol.http.HttpURLConnection.connect(HttpURLConnection.java:984)
+	at sun.net.www.protocol.http.HttpURLConnection.getOutputStream0(HttpURLConnection.java:1334)
+	at sun.net.www.protocol.http.HttpURLConnection.access$100(HttpURLConnection.java:91)
+	at sun.net.www.protocol.http.HttpURLConnection$8.run(HttpURLConnection.java:1301)
+	at sun.net.www.protocol.http.HttpURLConnection$8.run(HttpURLConnection.java:1299)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.AccessController.doPrivilegedWithCombiner(AccessController.java:782)
+	at sun.net.www.protocol.http.HttpURLConnection.getOutputStream(HttpURLConnection.java:1298)
+	at noppes.npcs.client.AnalyticsTracking$1.run(AnalyticsTracking.java:42)
+	at java.lang.Thread.run(Thread.java:748)
+[17:15:49][FINE/CustomNPCs][noppes.npcs.controllers.LinkedNpcController:28] Loading Linked Npcs
+[17:15:49][FINE/CustomNPCs][noppes.npcs.controllers.LinkedNpcController:28] Done loading Linked Npcs
+[17:15:55][FINE/CustomNPCs][noppes.npcs.CustomNpcs:311] Loading Dialogs
+[17:15:55][FINE/CustomNPCs][noppes.npcs.CustomNpcs:311] Done loading Dialogs
+[17:16:26][SEVERE/CustomNPCs][java.lang.Thread:748] java.net.UnknownHostException: www.google-analytics.com
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:184)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:589)
+	at sun.net.NetworkClient.doConnect(NetworkClient.java:175)
+	at sun.net.www.http.HttpClient.openServer(HttpClient.java:463)
+	at sun.net.www.http.HttpClient.openServer(HttpClient.java:558)
+	at sun.net.www.http.HttpClient.<init>(HttpClient.java:242)
+	at sun.net.www.http.HttpClient.New(HttpClient.java:339)
+	at sun.net.www.http.HttpClient.New(HttpClient.java:357)
+	at sun.net.www.protocol.http.HttpURLConnection.getNewHttpClient(HttpURLConnection.java:1220)
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect0(HttpURLConnection.java:1156)
+	at sun.net.www.protocol.http.HttpURLConnection$6.run(HttpURLConnection.java:1040)
+	at sun.net.www.protocol.http.HttpURLConnection$6.run(HttpURLConnection.java:1038)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.AccessController.doPrivilegedWithCombiner(AccessController.java:782)
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect(HttpURLConnection.java:1037)
+	at sun.net.www.protocol.http.HttpURLConnection.connect(HttpURLConnection.java:984)
+	at sun.net.www.protocol.http.HttpURLConnection.getOutputStream0(HttpURLConnection.java:1334)
+	at sun.net.www.protocol.http.HttpURLConnection.access$100(HttpURLConnection.java:91)
+	at sun.net.www.protocol.http.HttpURLConnection$8.run(HttpURLConnection.java:1301)
+	at sun.net.www.protocol.http.HttpURLConnection$8.run(HttpURLConnection.java:1299)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.AccessController.doPrivilegedWithCombiner(AccessController.java:782)
+	at sun.net.www.protocol.http.HttpURLConnection.getOutputStream(HttpURLConnection.java:1298)
+	at noppes.npcs.client.AnalyticsTracking$1.run(AnalyticsTracking.java:42)
+	at java.lang.Thread.run(Thread.java:748)
